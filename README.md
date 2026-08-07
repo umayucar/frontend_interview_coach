@@ -1,6 +1,6 @@
 # 🤖 Frontend Interview Coach
 
-Frontend mülakatlarına hazırlanan geliştiriciler için tasarlanmış, Google Gemini 1.5 Flash-Lite modeli destekli, akıllı bir mülakat koçu ve teknik eğitmendir.
+Frontend mülakatlarına hazırlanan geliştiriciler için tasarlanmış, Google Gemini 3.5 Flash-Lite modeli destekli, akıllı bir mülakat koçu ve teknik eğitmendir.
 Bu uygulama, kullanıcıyı sadece mülakat sorularına hazırlamakla kalmaz; Senior bir eğitmen gibi kavramların mantığını öğretir, gerçek hayattan benzetmeler yapar ve profesyonel kod örnekleri sunar.
 
 <img width="524" height="685" alt="Screenshot 2026-08-05 at 23 30 42" src="https://github.com/user-attachments/assets/5fb5e676-fb94-4cbf-b63f-fc9bf7f0d19d" />
